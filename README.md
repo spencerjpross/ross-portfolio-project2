@@ -2,7 +2,7 @@ Module 2 challenge.
 
 Link to website:  https://spencerjpross.github.io/ross-portfolio-project2/
 
-Link to github repo: https://github.com/spencerjpross/ross-spencer-module-1-challenge
+Link to github repo: https://github.com/spencerjpross/ross-portfolio-project2
 
 Link to my wireframe that I used to create the outline of the website: https://excalidraw.com/#json=UjSRN187a0LKsnu15fVhl,kPd-RbO2CfTYUc0PWrSQMw
 
